@@ -9,3 +9,5 @@ npx hardhat compile
 npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.js --network localhost
+
+npx hardhat console
