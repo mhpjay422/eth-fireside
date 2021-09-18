@@ -1,4 +1,6 @@
 require("@nomiclabs/hardhat-waffle");
+const privateKey = "01234567890123456789";
+const projectId = "b10ee952e53944bda93d5ec291b03594";
 
 module.exports = {
   defaultNetwork: "hardhat",
