@@ -15,6 +15,10 @@ npx hardhat run scripts/deploy.js --network mumbai
 
 npx hardhat console
 
+npm i -g hardhat-shorthand
+
+hardhat-completion install
+
 hh [tab][tab]
 
 https://etherscan.io
