@@ -16,12 +16,14 @@ npx hardhat run scripts/deploy.js --network mumbai
 
 npx hardhat console
 
+https://mumbai.polygonscan.com/
+
+https://etherscan.io
+
+https://etherscan.io/token/0x25ed58c027921e14d86380ea2646e3a1b5c55a8b#readContract
+
 npm i -g hardhat-shorthand
 
 hardhat-completion install
 
 hh [tab][tab]
-
-https://etherscan.io
-
-https://etherscan.io/token/0x25ed58c027921e14d86380ea2646e3a1b5c55a8b#readContract
